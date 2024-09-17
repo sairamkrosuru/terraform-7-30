@@ -5,7 +5,3 @@ variable "bucket_name" {
 variable "cidr" {
   type = string
 }
-
-variable "vpc_name" {
-  type = string
-}
